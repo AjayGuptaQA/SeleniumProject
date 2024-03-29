@@ -105,4 +105,8 @@ public class LoginPageActions {
         return valueRequiredFromProp;
 
     }
+
+    public void addedFromGitHubPortalAgain() {
+        System.out.println("inside method addedFromGitHubPortalAgain");
+    }
 }
