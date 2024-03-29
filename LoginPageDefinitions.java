@@ -266,4 +266,8 @@ public class LoginPageDefinitions {
         loginTest.log(Status.INFO, "order has been successfully placed");
         loginTest.pass("order confirmed");
     }
+
+    public void addedFromGitHubPortal() {
+        System.out.println("inside method addedFromGitHubPortal");
+    }
 }
