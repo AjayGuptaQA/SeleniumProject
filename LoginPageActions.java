@@ -108,5 +108,9 @@ public class LoginPageActions {
 
     public void addedFromGitHubPortalAgain() {
         System.out.println("inside method addedFromGitHubPortalAgain");
+
+	
+	public void changesDoneInLocal() {
+        System.out.println("inside method changesDoneInLocal");
     }
 }
